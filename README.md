@@ -1,4 +1,4 @@
-# 🔐 NeoCrypt - Secure Communication System
+# 🔐 NeoCrypt: Secure Communication System
 
 A futuristic encryption/decryption toolkit with a dystopian cyberpunk aesthetic. NeoCrypt provides military-grade cryptographic algorithms through an immersive web interface that evokes the feeling of a high-tech cyberpunk world.
 
