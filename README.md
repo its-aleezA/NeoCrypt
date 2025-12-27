@@ -109,5 +109,5 @@ The interface currently includes simulation functions that demonstrate how it wo
 This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for full details.
 
-> [! WARNING]
+> [!WARNING]
 > This is a demonstration tool. For actual secure communications, use professionally vetted cryptographic libraries.
